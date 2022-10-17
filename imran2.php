@@ -8,8 +8,9 @@
 #Print the result
 echo $sum
 
-echo " imran "
+
 echo "irfan"
 
 echo "sidgs"
 
+echo "imran"
