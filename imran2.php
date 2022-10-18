@@ -9,8 +9,6 @@
 echo $sum
 
 
-echo "irfan"
 
-echo "sidgs"
 
 echo "imran"
